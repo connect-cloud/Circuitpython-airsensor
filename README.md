@@ -13,6 +13,15 @@
 * [Short Feather headers kit](https://shop.pimoroni.com/products/short-feather-headers-kit-12-pin-and-16-pin-female-header-set)
 * [Breakout Garden I2C Connector](https://shop.pimoroni.com/products/breakout-garden-i2c-connector-pack-of-5)
 
+# Used Libraries
+* adafruit_bus_device
+* adafruit_minimqtt
+* adafruit_bme680
+* adafruit_scd4x
+* adafruit_dotstar (when using the UM FeatherS2)
+* feathers2 (when using the UM FeatherS2)
+
+
 ## References
 * https://learn.adafruit.com/adafruit-scd-40-and-scd-41/
 * https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas
